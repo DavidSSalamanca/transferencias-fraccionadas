@@ -50,7 +50,4 @@ Detectar comportamientos donde un usuario realiza múltiples transferencias pequ
 - xgboost
 - pandas
 
-Instala con:
 
-```bash
-pip install -r requirements.txt

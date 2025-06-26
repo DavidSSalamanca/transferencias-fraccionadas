@@ -40,8 +40,9 @@ Detectar comportamientos donde un usuario realiza múltiples transferencias pequ
 - `modelo_fraccionamiento.ipynb`: notebook con todo el pipeline, desde la exploración de la base hasta la prueba en la muestra después de entrenar.
 - `pipeline_fraccionamiento.pkl`: modelo entrenado con el mejor resultado (explore diferentes especificaciones pero solo dejé la de XGBoost)
 - `usuarios_sospechosos_muestra.csv`: resultado aplicado a muestra
+- El archivo PDF busca mostrar el proceso mental que se siguió, qué variables se analizaron y qué camino se tomó para construir el modelo.
 
-## 📦 Requisitos
+##  Requisitos
 
 - Polars
 - scikit-learn
